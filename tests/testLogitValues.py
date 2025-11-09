@@ -7,6 +7,8 @@ import re
 import numpy as np
 
 
+
+
 with open("Lesson.ipynb", "r") as file:
     f_str = file.read()
 
